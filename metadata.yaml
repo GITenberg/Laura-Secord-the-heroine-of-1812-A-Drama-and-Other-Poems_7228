@@ -1,0 +1,28 @@
+_repo: Laura-Secord-the-heroine-of-1812-A-Drama-and-Other-Poems_7228
+creator:
+  author:
+    agent_name: Curzon, Sarah Anne
+    birthdate: 1833
+    deathdate: 1898
+    gutenberg_agent_id: '2386'
+    url: http://www.gutenberg.org/2009/agents/2386
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Anne_Curzon
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canadian poetry'
+- !lcc 'PS'
+- !lcsh 'Secord, Laura Ingersoll, 1775-1868 -- Drama'
+- !lcsh 'Beaver Dams, Battle of, Beaver Dams, Ont., 1813 -- Drama'
+- !lcsh 'United States -- History -- War of 1812 -- Poetry'
+tableOfContents: Laura Secord -- Poems -- Fables, original and from the French --
+  Translations [from French] -- Notes -- Appendices.
+title: 'Laura Secord, the heroine of 1812: A Drama; and Other Poems'
+url: http://www.gutenberg.org/ebooks/7228
