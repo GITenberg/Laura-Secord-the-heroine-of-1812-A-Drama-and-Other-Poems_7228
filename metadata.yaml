@@ -1,4 +1,8 @@
 _repo: Laura-Secord-the-heroine-of-1812-A-Drama-and-Other-Poems_7228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curzon, Sarah Anne
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2386
     wikipedia: http://en.wikipedia.org/wiki/Sarah_Anne_Curzon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7228#Laura-Secord-the-heroine-of-1812-A-Drama-and-Other-Poems
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
